@@ -9,6 +9,6 @@ namespace ApiProdutosDomain.Interfaces.Services
 {
     public interface ICategoriaDomainService : IBaseDomainService<Categoria>
     {
-       // void Delete(Categoria categoria);
+       
     }
 }
